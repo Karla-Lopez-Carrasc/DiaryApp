@@ -47,6 +47,7 @@ The application will have the following screens:
 - [ ] After successful authentication, dismiss and show the entry list
 - [ ] The app must "lock" when it receives `willResignActiveNotification`
 - [ ] When the app becomes active again after being locked, show authentication
+<img width="433" height="863" alt="Captura de pantalla 2026-02-07 a la(s) 12 21 45 p m" src="https://github.com/user-attachments/assets/08425a57-7837-4c1d-8b48-5b987f9ba56c" />
 
 ---
 
@@ -182,3 +183,6 @@ MiPrimerDiario/
 │   └── (Lottie animation files)
 └── Info.plist
 ```
+
+<img width="477" height="907" alt="Captura de pantalla 2026-02-07 a la(s) 12 23 28 p m" src="https://github.com/user-attachments/assets/4bb79d95-91f2-4488-8ad0-52dbed0d5ebe" />
+
