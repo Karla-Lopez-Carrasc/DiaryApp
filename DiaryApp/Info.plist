@@ -2,6 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Face ID se usa para proteger las entradas personales del diario.
+</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Se usa la fototeca para seleccionar imágenes del diario.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>La cámara se usa para tomar fotos para las entradas del diario.</string>
+	<key>Privacy - Location When In Use Usage Description
+</key>
+	<string>La ubicación se usa para guardar dónde se escribió la entrada del diario.</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
